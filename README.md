@@ -74,11 +74,3 @@
 </p>
 <hr>
 
-
-  <br>
-  <p>
-    🔗 <a href="https://rentcars-rho.vercel.app/" target="_blank">Live Demo</a>
-  </p>
-
-</div>
-
