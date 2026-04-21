@@ -50,3 +50,25 @@
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 </p>
+<hr>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<br>
+
+<p align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=tonefarhoud3433-ai&theme=react&hide_border=true" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=tonefarhoud3433-ai&show_icons=true&theme=react&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonefarhoud3433-ai&layout=compact&theme=react&hide_border=true" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonefarhoud3433-ai&theme=react-dark&hide_border=true" width="100%"/>
+</p>
