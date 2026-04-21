@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Front-End Developer | React.js | Next.js | UI Engineer
+  Front-End Developer | React.js | Next.js
 </h3>
 
 ---
