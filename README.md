@@ -113,3 +113,45 @@
   </p>
 
 </div>
+<hr>
+
+<h2 align="center">👨‍💻 Featured Projects 👨‍💻</h2>
+
+<br>
+
+<div align="center">
+
+  <!-- Food App -->
+
+  <a href="https://github.com/tonefarhoud3433-ai/food-app" target="_blank">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=tonefarhoud3433-ai&repo=food-app&theme=react&hide_border=true" />
+  </a>
+
+<br><br>
+
+  <!-- UMS -->
+
+  <a href="https://github.com/tonefarhoud3433-ai/ums" target="_blank">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=tonefarhoud3433-ai&repo=ums&theme=react&hide_border=true" />
+  </a>
+
+  <br>
+  <p>
+    🔗 <a href="https://ums2026.netlify.app/" target="_blank">Live Demo</a>
+  </p>
+
+  <br>
+
+  <!-- Rent Cars -->
+
+  <a href="https://github.com/tonefarhoud3433-ai/rentcars" target="_blank">
+    <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=tonefarhoud3433-ai&repo=rentcars&theme=react&hide_border=true" />
+  </a>
+
+  <br>
+  <p>
+    🔗 <a href="https://rentcars-rho.vercel.app/" target="_blank">Live Demo</a>
+  </p>
+
+</div>
+
